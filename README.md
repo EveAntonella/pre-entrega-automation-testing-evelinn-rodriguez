@@ -28,6 +28,10 @@ Incluye automatización del login, verificación del catálogo de productos y va
    pip install -r requirements.txt
    ```
 
+3. Agregar al Path las variables de entorno y scripts, por ejemplo:
+   C:\Users\TuUsuario\AppData\Local\Programs\Python\Python313\Scripts
+   C:\Users\TuUsuario\AppData\Local\Programs\Python\Python313
+
 ---
 ## ▶️ Ejecución de las pruebas
 
