@@ -31,26 +31,26 @@ Proposito: Validar flujos básicos de Sauce Demo, Incluye automatización del lo
 
 Ejecutar con comando pytest tests/
 
- 🔐 Login
+ Login
 - Navega a `saucedemo.com`
 - Ingresa credenciales válidas
 - Verifica redirección a `/inventory.html`
 - Comprueba título “Products”
 
-### 🧭 Catálogo
+ Catálogo
 - Verifica título correcto (“Products”)
 - Comprueba que existan productos visibles
 - Valida presencia de menú y filtro
 - Lista nombre y precio del primer producto
 
-### 🛒 Carrito
+ Carrito
 - Añade el primer producto al carrito
 - Verifica incremento del contador
 - Navega al carrito y confirma producto agregado
 
 ---
 
-## 📊 Reportes y Evidencias
+Reportes y Evidencias
 - Reporte HTML: `reports/reporte.html`
 - Capturas automáticas en caso de fallo: `reports/screenshots/`
 
